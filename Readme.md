@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Максим Шеин](https://up.htmlacademy.ru/javascript/22/user/907509).
-* Наставник: `Неизвестно`.
+* Наставник: [Владислав Кривокора](https://htmlacademy.ru/profile/krivokora).
 
 ---
 

@@ -39,4 +39,4 @@ const createAdds = () => {
 
 const propertyAdd = new Array(SIMILAR_OBJECT_COUNT).fill(null).map(() => createAdds());
 
-propertyAdd;
+export {propertyAdd};
